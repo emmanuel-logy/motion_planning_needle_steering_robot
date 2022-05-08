@@ -26,7 +26,7 @@ The following figure shows the collision-free smoothened path for the needle gen
 The following visual shows the tracking of the generated path using the CURV Steering method. This was implemented in MATLAB. 
 
 <figure>
-    <img src="src/project/media/case3.png" height="480" width="896" />
+    <img src="src/project/media/case3.gif" height="480" width="896" />
 </figure>
 <br>
 
